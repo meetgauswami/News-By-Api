@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3012,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Every chance Stokes will bowl in fourth Test - Pope",
+            "description": "There is \"every chance\" England captain Ben Stokes will bowl in the fourth Test against India in Ranchi, says vice-captain Ollie Pope.",
+            "url": "https://www.bbc.co.uk/sport/cricket/68337474",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/3F48/production/_132700261_benstokes.jpg",
+            "publishedAt": "2024-02-21T08:33:46Z",
+            "content": "Ben Stokes is three wickets short of doing the double of 200 wickets and 6,000 runs in Test cricket\r\nThere is \"every chance\" England captain Ben Stokes will bowl in the fourth Test against India in R… [+2785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kevin Lynch",
+            "title": "Cricket Livestream: How to Watch India vs. England, 3rd Test From Anywhere - CNET",
+            "description": "The teams head to Rajkot with the series delicately poised at 1-1.",
+            "url": "https://www.cnet.com/tech/services-and-software/cricket-livestream-how-to-watch-india-vs-england-3rd-test-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/2bdfce7f3894dcab2c36b2230253396834993c36/hub/2024/02/14/9804bf0c-507f-4d62-9480-7712067e3d5d/gettyimages-1987451210.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-02-15T01:00:05Z",
+            "content": "Injury-ravaged India will be looking to build on their battling performance in the second Test as they face off with England once more for the third Test of the series in Rajkot. \r\nThe hosts leveled … [+9047 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Solcyré Burga",
+            "title": "What to Know About the Cellular Outages Happening Across the U.S.",
+            "description": "More than 70,000 customers have been impacted by outages across AT&T’s network Thursday morning, causing internet and cellular service outages.",
+            "url": "https://time.com/6757936/att-outage-cell-service-verizon-tmobile/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/cellular-outages-us.jpg?quality=85",
+            "publishedAt": "2024-02-22T16:04:28Z",
+            "content": "More than 70,000 customers have been impacted by outages across AT&amp;Ts network Thursday morning, causing internet and cellular service outages, according to Downdetector. \r\nAbout 1 in 2 customers … [+2079 chars]"
+        }
+    ]
+}
