@@ -69,9 +69,7 @@ const  updateNews = async  () => {
   const fetchMoreData = async () => {
     setPage(page + 1)
     if (
-      !(
-      page + 1 >
-        Math.ceil(totalResults /props.pageSize)
+      !(page + 1 > Math.ceil(totalResults /props.pageSize)
       )
     ) {
       let url = `https://newsapi.org/v2/top-headlines?country=${props.country
